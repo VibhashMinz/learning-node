@@ -1,0 +1,13 @@
+* Weakly typed Language
+Javascript is weakly typed language.
+It doesnt forces you to define the data type.
+Data types can be switched dynamically.
+
+* Object Oriented Language
+Data can be organizxed in logical objects.
+Primitive and refrence types.
+
+* Versatile Language
+Runs in browser and directly on a PC/server.
+Can perform a broad variety of tasks.
+
